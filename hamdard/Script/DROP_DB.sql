@@ -1,0 +1,10 @@
+DROP TABLE WaitList;
+DROP TABLE StudentTakeCourse;
+DROP TABLE Prerequisite;
+DROP TABLE CourseTaughtBy;
+DROP TABLE InstructorWithNoPHD;
+DROP TABLE InstructorWithPHD;
+DROP TABLE Instructor;
+DROP TABLE InvoicePaidBy;
+DROP TABLE StudentEnrolled;
+DROP TABLE Department;
